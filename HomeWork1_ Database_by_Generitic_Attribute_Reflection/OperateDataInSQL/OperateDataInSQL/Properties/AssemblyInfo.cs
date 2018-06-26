@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MyAttribute")]
+[assembly: AssemblyTitle("OperateDataInSQL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MyAttribute")]
+[assembly: AssemblyProduct("OperateDataInSQL")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bb25ca5b-a85b-4d13-9fda-e947c02ea711")]
+[assembly: Guid("af64383e-18dc-4a7d-a068-6bd42f7b6f7b")]
 
 // Version information for an assembly consists of the following four values:
 //

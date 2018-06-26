@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB25CA5B-A85B-4D13-9FDA-E947C02EA711}</ProjectGuid>
+    <ProjectGuid>{AF64383E-18DC-4A7D-A068-6BD42F7B6F7B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyAttribute</RootNamespace>
-    <AssemblyName>MyAttribute</AssemblyName>
+    <RootNamespace>OperateDataInSQL</RootNamespace>
+    <AssemblyName>OperateDataInSQL</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,13 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomAttribute.cs" />
-    <Compile Include="Extension\RemarkExtension.cs" />
-    <Compile Include="Extension\ValidateExtension.cs" />
-    <Compile Include="Manager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
